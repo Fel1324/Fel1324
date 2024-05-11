@@ -1,6 +1,6 @@
 ### Hi! I'm Rafael Oliveira 👋
 
-- 🔭 Currently I work with Front-End
+<!--- 🔭 Currently I work with web development-->
 - 🌱 I'm currently studying React
 - 📫 How to reach me: rafael.roberto200618@gmail.com
 
