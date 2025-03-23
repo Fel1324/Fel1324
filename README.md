@@ -1,7 +1,7 @@
 ### Hi! I'm Rafael Oliveira 👋
 
 <!--- 🔭 Currently I work with web development-->
-- 🌱 I'm currently studying TypeScript
+- 🌱 I'm currently studying NodeJS
 - 📫 How to reach me: rafael.roberto200618@gmail.com
 
 ---
